@@ -1,0 +1,32 @@
+body
+{background-color: #625a0e;}
+
+h1{color:#625a0e}
+
+.exemplo-back{height: 100px;
+background-color: aqua;}
+
+h2{
+    height: 300px;
+    background-image:url("C:\Users\laryl\Downloads\R (1).jfif");
+background-size:cover ;
+background-repeat: no-repeat;
+border:1px solid black;
+border-radius: 10px;
+margin-top: 10%;
+margin:30px,40px,150px,60px;
+padding: 20px;
+(borda: border-left: border-top  border-bottom)
+<---bordas= groove, double,ridge, inset, outset, hideen, dotted: .;
+
+
+<!---background-repeat: repeat-x;
+background-repeat: repeat-y;
+background-size: contain;
+background-position:top, left. center;-->}
+
+.botao
+{color:white; background: red;
+text-decoration: dotted;
+border-radius: 5px;}
+.botao:hover{background: blue;}

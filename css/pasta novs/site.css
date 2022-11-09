@@ -1,0 +1,72 @@
+
+
+
+h2{color:red;
+    background-image:url("C:\Html\css\treinamento\pexels-photo-7640407.jpeg");
+    text-align: center;
+     border: solid red;
+    padding: 170px;
+    margin: 0%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+     }
+  
+     h3{color: brown; text-align: center; font-style: italic;}
+
+     .vestido{ display:inline-block; border: solid salmon;
+    text-align: center;
+font-style: italic;
+font-size: 150%;
+
+margin-block: 90px;
+margin-inline-end: 20px;
+margin-left: 50px;
+margin-right: 50px;}
+.vestido:hover
+{opacity: 0.9;}
+
+h1{color: black; overflow: hidden;
+display: block;}
+
+ul{background-color: black;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+li{
+    float: left;
+    border: solid 1px white;
+
+}
+
+li a,.dropdowntbn {display: inline-block;
+color:white;
+padding: 14px 16px;
+text-align: center;
+text-decoration: none;
+font-size: 20px;
+padding: 20px;}
+
+li a:hover, .dropdown:hover .dropdowntbn {background-color: whitesmoke;}
+
+.dropdown-content 
+{position:absolute;
+background-color: white;
+width: 150px;
+display: none;}
+
+.dropdown-content a
+{color: black;
+display: block;
+text-align: left;
+border: solid 1px gray;
+}
+.dropdown-content a:hover{
+    color: white;
+
+}
+.dropdown:hover .dropdown-content{display: block;}
+
